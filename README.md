@@ -1,2 +1,2 @@
-# int
+# laborator6
 Created with CodeSandbox
